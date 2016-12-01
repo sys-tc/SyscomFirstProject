@@ -1,12 +1,9 @@
-test
 
+ここら辺のサイト参考にしてくださいね
 
+http://qiita.com/cotrpepe/items/7cafaacb538425a78f1f
 
-aaaaaaaaaaaaaaaaaaa
+http://qiita.com/wnoguchi/items/f7358a227dfe2640cce3
 
-a
-a
-a
+とりあえずgitをインストールして、usernameとaddress登録しておけばOK
 
-a
-a
