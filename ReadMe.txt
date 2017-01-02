@@ -7,3 +7,4 @@ http://qiita.com/wnoguchi/items/f7358a227dfe2640cce3
 
 とりあえずgitをインストールして、usernameとaddress登録しておけばOK
 
+プッシュのテストなのである
