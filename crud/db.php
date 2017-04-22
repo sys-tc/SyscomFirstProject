@@ -1,7 +1,7 @@
 <?php
 class DB{
 	private  $USER = "root";
-	private  $PW   = "";
+	private  $PW   = "tomi5237el";
 	private  $dns  = "mysql:dbname=salesmanagement;host=localhost;charset=utf8";
 
 	private function Connectdb(){
